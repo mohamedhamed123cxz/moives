@@ -1,0 +1,9 @@
+.primary-nav{
+    background-color: lightblue;
+    display: flex;
+    padding: 10px 15px;
+}
+a{
+    margin-right:10px;
+}
+
